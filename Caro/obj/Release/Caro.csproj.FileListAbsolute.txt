@@ -1,0 +1,9 @@
+E:\Study\C#\K-Solution\Caro\bin\Release\Caro.exe.config
+E:\Study\C#\K-Solution\Caro\bin\Release\Caro.exe
+E:\Study\C#\K-Solution\Caro\bin\Release\Caro.pdb
+E:\Study\C#\K-Solution\Caro\obj\Release\Caro.Caro.resources
+E:\Study\C#\K-Solution\Caro\obj\Release\Caro.Properties.Resources.resources
+E:\Study\C#\K-Solution\Caro\obj\Release\Caro.csproj.GenerateResource.cache
+E:\Study\C#\K-Solution\Caro\obj\Release\Caro.csproj.CoreCompileInputs.cache
+E:\Study\C#\K-Solution\Caro\obj\Release\Caro.exe
+E:\Study\C#\K-Solution\Caro\obj\Release\Caro.pdb

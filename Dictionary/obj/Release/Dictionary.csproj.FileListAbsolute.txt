@@ -1,0 +1,10 @@
+E:\Study\C#\K-Solution\Dictionary\bin\Release\Dictionary.exe.config
+E:\Study\C#\K-Solution\Dictionary\bin\Release\Dictionary.exe
+E:\Study\C#\K-Solution\Dictionary\bin\Release\Dictionary.pdb
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.csprojAssemblyReference.cache
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.Form1.resources
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.exe
+E:\Study\C#\K-Solution\Dictionary\obj\Release\Dictionary.pdb

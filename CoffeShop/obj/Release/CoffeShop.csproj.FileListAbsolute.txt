@@ -1,0 +1,12 @@
+E:\Study\C#\K-Solution\CoffeShop\bin\Release\CoffeShop.exe.config
+E:\Study\C#\K-Solution\CoffeShop\bin\Release\CoffeShop.exe
+E:\Study\C#\K-Solution\CoffeShop\bin\Release\CoffeShop.pdb
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.fAccountProfile.resources
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.fAdmin.resources
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.fLogin.resources
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.Properties.Resources.resources
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.fTableManager.resources
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.csproj.GenerateResource.cache
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.csproj.CoreCompileInputs.cache
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.exe
+E:\Study\C#\K-Solution\CoffeShop\obj\Release\CoffeShop.pdb

@@ -1,0 +1,12 @@
+E:\Study\C#\K-Solution\Calender\bin\Release\Calender.exe.config
+E:\Study\C#\K-Solution\Calender\bin\Release\Calender.exe
+E:\Study\C#\K-Solution\Calender\bin\Release\Calender.pdb
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.csprojAssemblyReference.cache
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.Calender.resources
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.DailyPlan.resources
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.Plan.resources
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.Properties.Resources.resources
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.csproj.GenerateResource.cache
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.csproj.CoreCompileInputs.cache
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.exe
+E:\Study\C#\K-Solution\Calender\obj\Release\Calender.pdb
